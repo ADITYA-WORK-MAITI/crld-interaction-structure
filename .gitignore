@@ -1,0 +1,9 @@
+.venv/
+.venv313/
+__pycache__/
+*.pyc
+
+# sandbox environment probes, not results
+out/envcheck*.txt
+out/pipcheck.txt
+out/pdfgen.txt

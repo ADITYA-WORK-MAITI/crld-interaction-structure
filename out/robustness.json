@@ -1,0 +1,64 @@
+{
+ "d4_N20_nonconverged": [
+  {
+   "max_step_change": 0.0,
+   "amplitude_over_window": 0.0,
+   "verdict": "fixed point"
+  },
+  {
+   "max_step_change": 9.992007221626409e-16,
+   "amplitude_over_window": 5.995204332975845e-15,
+   "verdict": "fixed point"
+  },
+  {
+   "max_step_change": 0.0,
+   "amplitude_over_window": 0.0,
+   "verdict": "fixed point"
+  },
+  {
+   "max_step_change": 0.0,
+   "amplitude_over_window": 0.0,
+   "verdict": "fixed point"
+  },
+  {
+   "max_step_change": 0.0,
+   "amplitude_over_window": 0.0,
+   "verdict": "fixed point"
+  }
+ ],
+ "q-complete": {
+  "N": 20,
+  "D": 40,
+  "n_converged": 40,
+  "n_failed": 0,
+  "R_quotient": 1,
+  "R_raw": 1,
+  "R_chao1": 1.0,
+  "discovery_rate": 0.025,
+  "frac_symmetry_broken": 0.0,
+  "median_steps": 713.0,
+  "max_amplitude": 1.8944891228694916e-11,
+  "mean_coop": 0.0024748768782442755,
+  "d_twonn": 11.303081537064648,
+  "tag": "q-complete",
+  "variant": "q"
+ },
+ "q-ring-d2": {
+  "N": 20,
+  "D": 40,
+  "n_converged": 40,
+  "n_failed": 0,
+  "R_quotient": 11,
+  "R_raw": 39,
+  "R_chao1": 11.0,
+  "discovery_rate": 0.275,
+  "frac_symmetry_broken": 1.0,
+  "median_steps": 1069.0,
+  "max_amplitude": 3.360339784208577e-11,
+  "mean_coop": 0.357439272685352,
+  "d_twonn": 1.9489414538024,
+  "tag": "q-ring-d2",
+  "variant": "q"
+ },
+ "_field_note": "Diagnostics are {max_step_change, amplitude_over_window}. max_step_change decides fixed point vs oscillation; amplitude_over_window is the total excursion across the window and is necessarily the larger of the two."
+}

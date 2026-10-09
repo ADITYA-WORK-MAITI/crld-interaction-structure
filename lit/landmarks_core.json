@@ -1,0 +1,1243 @@
+{
+ "L1a": {
+  "axis": "dendrite",
+  "expect_author": "Poirazi",
+  "query": "Pyramidal neuron as two-layer neural network",
+  "top": {
+   "doi": "10.1016/s0896-6273(03)00149-1",
+   "title": "Pyramidal Neuron as Two-Layer Neural Network",
+   "yr": 2003,
+   "venue": "Neuron",
+   "auth": [
+    "Poirazi",
+    "Brannon",
+    "Mel"
+   ]
+  },
+  "author_match": true,
+  "alts": [
+   {
+    "doi": "10.3389/fncir.2018.00029",
+    "title": "The Effect of Single Pyramidal Neuron Firing Within Layer 2/3 and Layer 4 in Mouse V1",
+    "yr": 2018,
+    "venue": "Frontiers in Neural Circuits",
+    "auth": [
+     "Meyer",
+     "Golshani",
+     "Smirnakis"
+    ]
+   },
+   {
+    "doi": "10.1080/net.12.4.473.492",
+    "title": "Pattern recognition in a compartmental model of a CA1 pyramidal neuron",
+    "yr": 2001,
+    "venue": "Network: Computation in Neural Systems",
+    "auth": [
+     "Graham"
+    ]
+   }
+  ]
+ },
+ "L1b": {
+  "axis": "dendrite",
+  "expect_author": "London",
+  "query": "Dendritic computation",
+  "top": {
+   "doi": "10.1146/annurev.neuro.28.061604.135703",
+   "title": "DENDRITIC COMPUTATION",
+   "yr": 2005,
+   "venue": "Annual Review of Neuroscience",
+   "auth": [
+    "London",
+    "H\u00e4usser"
+   ]
+  },
+  "author_match": true,
+  "alts": [
+   {
+    "doi": "10.1093/oso/9780195104912.003.0018",
+    "title": "Dendritic Spines",
+    "yr": 1998,
+    "venue": "Biophysics of Computation",
+    "auth": [
+     "Koch"
+    ]
+   },
+   {
+    "doi": "10.7551/mitpress/9780262013505.003.0010",
+    "title": "Computation",
+    "yr": 2010,
+    "venue": "Dendritic Spines",
+    "auth": [
+     "Yuste"
+    ]
+   }
+  ]
+ },
+ "L1c": {
+  "axis": "dendrite",
+  "expect_author": "Gidon",
+  "query": "Dendritic action potentials and computation in human layer 2/3 cortical neurons",
+  "top": {
+   "doi": "10.1126/science.aax6239",
+   "title": "Dendritic action potentials and computation in human layer 2/3 cortical neurons",
+   "yr": 2020,
+   "venue": "Science",
+   "auth": [
+    "Gidon",
+    "Zolnik",
+    "Fidzinski",
+    "Bolduan"
+   ]
+  },
+  "author_match": true,
+  "alts": [
+   {
+    "doi": "10.1126/science.aax6239",
+    "title": "Dendritic action potentials and computation in human layer 2/3 cortical neurons",
+    "yr": 2020,
+    "venue": "Science",
+    "auth": [
+     "Gidon",
+     "Zolnik",
+     "Fidzinski",
+     "Bolduan"
+    ]
+   },
+   {
+    "doi": "10.3389/fnins.2019.01221",
+    "title": "Metabolic Cost of Dendritic Ca2+ Action Potentials in Layer 5 Pyramidal Neurons",
+    "yr": 2019,
+    "venue": "Frontiers in Neuroscience",
+    "auth": [
+     "Yi",
+     "Fan",
+     "Wang"
+    ]
+   }
+  ]
+ },
+ "L1d": {
+  "axis": "dendrite",
+  "expect_author": "Poirazi",
+  "query": "Illuminating dendritic function with computational models",
+  "top": {
+   "doi": "10.1038/s41583-020-0301-7",
+   "title": "Illuminating dendritic function with computational models",
+   "yr": 2020,
+   "venue": "Nature Reviews Neuroscience",
+   "auth": [
+    "Poirazi",
+    "Papoutsi"
+   ]
+  },
+  "author_match": true,
+  "alts": [
+   {
+    "doi": "10.7551/mitpress/2002.003.0009",
+    "title": "Models of Neural Function",
+    "yr": 1991,
+    "venue": "Computational Models of Visual Processing",
+    "auth": []
+   },
+   {
+    "doi": "10.1007/978-1-4614-8094-5_11",
+    "title": "Noisy Dendrites: Models of Dendritic Integration In Vivo",
+    "yr": 2013,
+    "venue": "Springer Series in Computational Neuroscience",
+    "auth": [
+     "Destexhe",
+     "Rudolph-Lilith"
+    ]
+   }
+  ]
+ },
+ "L1e": {
+  "axis": "dendrite",
+  "expect_author": "Stuart",
+  "query": "Dendritic integration: 60 years of progress",
+  "top": {
+   "doi": "10.1038/nn.4157",
+   "title": "Dendritic integration: 60 years of progress",
+   "yr": 2015,
+   "venue": "Nature Neuroscience",
+   "auth": [
+    "Stuart",
+    "Spruston"
+   ]
+  },
+  "author_match": true,
+  "alts": [
+   {
+    "doi": "10.5220/0006680500490060",
+    "title": "Computer-aided Formal Proofs about Dendritic Integration within a Neuron",
+    "yr": 2018,
+    "venue": "Proceedings of the 11th International Joint Conference on Biomedical Engineering Systems and Technologies",
+    "auth": [
+     "Guinaudeau",
+     "Bernot",
+     "Muzy",
+     "Gaff\u00e9"
+    ]
+   },
+   {
+    "doi": "10.2139/ssrn.3100565",
+    "title": "60 Years Electricity Reform Progress in Kenya",
+    "yr": 2018,
+    "venue": "",
+    "auth": [
+     "Mabea",
+     "Macatangay",
+     "Mutua"
+    ]
+   }
+  ]
+ },
+ "L2a": {
+  "axis": "synapse",
+  "expect_author": "Abbott",
+  "query": "Synaptic computation",
+  "top": {
+   "doi": "10.1038/nature03010",
+   "title": "Synaptic computation",
+   "yr": 2004,
+   "venue": "Nature",
+   "auth": [
+    "Abbott",
+    "Regehr"
+   ]
+  },
+  "author_match": true,
+  "alts": [
+   {
+    "doi": "10.1093/oso/9780195104912.003.0019",
+    "title": "Synaptic Plasticity",
+    "yr": 1998,
+    "venue": "Biophysics of Computation",
+    "auth": [
+     "Koch"
+    ]
+   },
+   {
+    "doi": "10.1162/neco_a_00061",
+    "title": "The Mean Time to Express Synaptic Plasticity in Integrate-and-Express, Stochastic Models of Synaptic Plasticity Induction",
+    "yr": 2011,
+    "venue": "Neural Computation",
+    "auth": [
+     "Elliott"
+    ]
+   }
+  ]
+ },
+ "L2b": {
+  "axis": "synapse",
+  "expect_author": "Tsodyks",
+  "query": "The neural code between neocortical pyramidal neurons depends on neurotransmitter release probability",
+  "top": {
+   "doi": "10.1073/pnas.94.2.719",
+   "title": "The neural code between neocortical pyramidal neurons depends on neurotransmitter release\u2009probability",
+   "yr": 1997,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "auth": [
+    "Tsodyks",
+    "Markram"
+   ]
+  },
+  "author_match": true,
+  "alts": [
+   {
+    "doi": "10.1162/neco.1994.6.6.1086",
+    "title": "Simulations of Intrinsically Bursting Neocortical Pyramidal Neurons",
+    "yr": 1994,
+    "venue": "Neural Computation",
+    "auth": [
+     "Rhodes",
+     "Gray"
+    ]
+   },
+   {
+    "doi": "10.3389/fncir.2012.00028",
+    "title": "Effect of temperature on spiking patterns of neocortical layer 2/3 and layer 6 pyramidal neurons",
+    "yr": 2012,
+    "venue": "Frontiers in Neural Circuits",
+    "auth": [
+     "Hedrick",
+     "Waters"
+    ]
+   }
+  ]
+ },
+ "L2c": {
+  "axis": "synapse",
+  "expect_author": "Markram",
+  "query": "Differential signaling via the same axon of neocortical pyramidal neurons",
+  "top": {
+   "doi": "10.1073/pnas.95.9.5323",
+   "title": "Differential signaling via the same axon of neocortical pyramidal neurons",
+   "yr": 1998,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "auth": [
+    "Markram",
+    "Wang",
+    "Tsodyks"
+   ]
+  },
+  "author_match": true,
+  "alts": [
+   {
+    "doi": "10.7554/elife.65427.sa1",
+    "title": "Decision letter: Ciliary neuropeptidergic signaling dynamically regulates excitatory synapses in postnatal neocortical pyramidal neurons",
+    "yr": 2021,
+    "venue": "",
+    "auth": []
+   },
+   {
+    "doi": "10.7554/elife.65427.sa2",
+    "title": "Author response: Ciliary neuropeptidergic signaling dynamically regulates excitatory synapses in postnatal neocortical pyramidal neurons",
+    "yr": 2021,
+    "venue": "",
+    "auth": [
+     "Tereshko",
+     "Gao",
+     "Cary",
+     "Turrigiano"
+    ]
+   }
+  ]
+ },
+ "L2d": {
+  "axis": "synapse",
+  "expect_author": "Fortune",
+  "query": "Short-term synaptic plasticity as a temporal filter",
+  "top": {
+   "doi": "10.1016/s0166-2236(00)01835-x",
+   "title": "Short-term synaptic plasticity as a temporal filter",
+   "yr": 2001,
+   "venue": "Trends in Neurosciences",
+   "auth": [
+    "Fortune",
+    "Rose"
+   ]
+  },
+  "author_match": true,
+  "alts": [
+   {
+    "doi": "10.3389/fnint.2011.00020",
+    "title": "A novel learning rule for long-term plasticity of short-term synaptic plasticity enhances temporal processing",
+    "yr": 2011,
+    "venue": "Frontiers in Integrative Neuroscience",
+    "auth": [
+     "P. Carvalho"
+    ]
+   },
+   {
+    "doi": "10.1101/2022.10.28.514318",
+    "title": "Unified control of temporal and spatial scales of sensorimotor behavior through neuromodulation of short-term synaptic plasticity",
+    "yr": 2022,
+    "venue": "",
+    "auth": [
+     "Zhou",
+     "Buonomano"
+    ]
+   }
+  ]
+ },
+ "L3a": {
+  "axis": "synapse-state",
+  "expect_author": "Fusi",
+  "query": "Cascade models of synaptically stored memories",
+  "top": {
+   "doi": "10.1016/j.neuron.2005.02.001",
+   "title": "Cascade Models of Synaptically Stored Memories",
+   "yr": 2005,
+   "venue": "Neuron",
+   "auth": [
+    "Fusi",
+    "Drew",
+    "Abbott"
+   ]
+  },
+  "author_match": true,
+  "alts": [
+   {
+    "doi": "10.3410/f.1024405.287927",
+    "title": "Faculty Opinions recommendation of Cascade models of synaptically stored memories.",
+    "yr": 2005,
+    "venue": "Faculty Opinions \u2013 Post-Publication Peer Review of the Biomedical Literature",
+    "auth": [
+     "Knierim"
+    ]
+   },
+   {
+    "doi": "10.1007/978-1-4419-1428-6_2110",
+    "title": "Cross Talk Between Stored Memories",
+    "yr": 2012,
+    "venue": "Encyclopedia of the Sciences of Learning",
+    "auth": []
+   }
+  ]
+ },
+ "L3b": {
+  "axis": "synapse-state",
+  "expect_author": "Benna",
+  "query": "Computational principles of synaptic memory consolidation",
+  "top": {
+   "doi": "10.1038/nn.4401",
+   "title": "Computational principles of synaptic memory consolidation",
+   "yr": 2016,
+   "venue": "Nature Neuroscience",
+   "auth": [
+    "Benna",
+    "Fusi"
+   ]
+  },
+  "author_match": true,
+  "alts": [
+   {
+    "doi": "10.1038/nn.4401",
+    "title": "Computational principles of synaptic memory consolidation",
+    "yr": 2016,
+    "venue": "Nature Neuroscience",
+    "auth": [
+     "Benna",
+     "Fusi"
+    ]
+   },
+   {
+    "doi": "10.70675/ed0ae1d5zf301z4ab6zbf79z1270e7653462",
+    "title": "Computational neuroscience models at different levels of abstraction for synaptic plasticity, astrocyte modulation of synchronization and systems memory consolidation",
+    "yr": null,
+    "venue": "",
+    "auth": [
+     "Blum Moyse"
+    ]
+   }
+  ]
+ },
+ "L4a": {
+  "axis": "homeostasis",
+  "expect_author": "Marder",
+  "query": "Variability, compensation and homeostasis in neuron and network function",
+  "top": {
+   "doi": "10.1038/nrn1949",
+   "title": "Variability, compensation and homeostasis in neuron and network function",
+   "yr": 2006,
+   "venue": "Nature Reviews Neuroscience",
+   "auth": [
+    "Marder",
+    "Goaillard"
+   ]
+  },
+  "author_match": true,
+  "alts": [
+   {
+    "doi": "10.1016/j.neuron.2015.12.002",
+    "title": "Cell Types, Network Homeostasis, and Pathological Compensation from a Biologically Plausible Ion Channel Expression Model",
+    "yr": 2015,
+    "venue": "Neuron",
+    "auth": [
+     "O\u2019Leary",
+     "Williams",
+     "Franci",
+     "Marder"
+    ]
+   },
+   {
+    "doi": "10.1016/j.neuron.2014.04.002",
+    "title": "Cell Types, Network Homeostasis, and Pathological Compensation from a Biologically Plausible Ion Channel Expression Model",
+    "yr": 2014,
+    "venue": "Neuron",
+    "auth": [
+     "O\u2019Leary",
+     "Williams",
+     "Franci",
+     "Marder"
+    ]
+   }
+  ]
+ },
+ "L4b": {
+  "axis": "homeostasis",
+  "expect_author": "Turrigiano",
+  "query": "The self-tuning neuron: synaptic scaling of excitatory synapses",
+  "top": {
+   "doi": "10.1016/j.cell.2008.10.008",
+   "title": "The Self-Tuning Neuron: Synaptic Scaling of Excitatory Synapses",
+   "yr": 2008,
+   "venue": "Cell",
+   "auth": [
+    "Turrigiano"
+   ]
+  },
+  "author_match": true,
+  "alts": [
+   {
+    "doi": "10.1016/j.neuron.2022.09.035",
+    "title": "Different priming states of synaptic vesicles underlie distinct release probabilities at hippocampal excitatory synapses",
+    "yr": 2022,
+    "venue": "Neuron",
+    "auth": [
+     "Aldahabi",
+     "Balint",
+     "Holderith",
+     "Lorincz"
+    ]
+   },
+   {
+    "doi": "10.5353/th_b4985869",
+    "title": "Proheparanase action at excitatory synapses : implication on synaptic plasticity",
+    "yr": null,
+    "venue": "",
+    "auth": [
+     "Lam"
+    ]
+   }
+  ]
+ },
+ "L4c": {
+  "axis": "intrinsic",
+  "expect_author": "Zhang",
+  "query": "The other side of the engram: experience-driven changes in neuronal intrinsic excitability",
+  "top": {
+   "doi": "10.1038/nrn1248",
+   "title": "The other side of the engram: experience-driven changes in neuronal intrinsic excitability",
+   "yr": 2003,
+   "venue": "Nature Reviews Neuroscience",
+   "auth": [
+    "Zhang",
+    "Linden"
+   ]
+  },
+  "author_match": true,
+  "alts": [
+   {
+    "doi": "10.70675/ec44f29ez3390z46acz8606zd264e6d6fc8e",
+    "title": "Determine how intrinsic excitability plasticity of defined neuronal engram ensembles in the anterior cingulate cortex influences the precision of remote memory",
+    "yr": null,
+    "venue": "",
+    "auth": [
+     "Zhu"
+    ]
+   },
+   {
+    "doi": "10.3389/neuro.24.002.2010",
+    "title": "Learning and aging related changes in intrinsic neuronal excitability",
+    "yr": 2010,
+    "venue": "Frontiers in Aging Neuroscience",
+    "auth": [
+     "Oh"
+    ]
+   }
+  ]
+ },
+ "L5a": {
+  "axis": "neuromod",
+  "expect_author": "Bargmann",
+  "query": "Beyond the connectome: how neuromodulators shape neural circuits",
+  "top": {
+   "doi": "10.1002/bies.201100185",
+   "title": "Beyond the connectome: How neuromodulators shape neural circuits",
+   "yr": 2012,
+   "venue": "BioEssays",
+   "auth": [
+    "Bargmann"
+   ]
+  },
+  "author_match": true,
+  "alts": [
+   {
+    "doi": "10.3410/f.14203956.15720056",
+    "title": "Faculty Opinions recommendation of Beyond the connectome: how neuromodulators shape neural circuits.",
+    "yr": 2012,
+    "venue": "Faculty Opinions \u2013 Post-Publication Peer Review of the Biomedical Literature",
+    "auth": [
+     "Hobert"
+    ]
+   },
+   {
+    "doi": "10.3389/fncir.2012.00081",
+    "title": "The Intrinsic Connectome of the Rat Amygdala",
+    "yr": 2012,
+    "venue": "Frontiers in Neural Circuits",
+    "auth": [
+     "Schmitt",
+     "Eipert",
+     "Philipp",
+     "Kettlitz"
+    ]
+   }
+  ]
+ },
+ "L5b": {
+  "axis": "neuromod",
+  "expect_author": "Marder",
+  "query": "Neuromodulation of neuronal circuits: back to the future",
+  "top": {
+   "doi": "10.1016/j.neuron.2012.09.010",
+   "title": "Neuromodulation of Neuronal Circuits: Back to the Future",
+   "yr": 2012,
+   "venue": "Neuron",
+   "auth": [
+    "Marder"
+   ]
+  },
+  "author_match": true,
+  "alts": [
+   {
+    "doi": "10.1017/cbo9780511541735.006",
+    "title": "Neuromodulation and state-dependent activities in forebrain neuronal circuits",
+    "yr": 2007,
+    "venue": "Gating in Cerebral Networks",
+    "auth": []
+   },
+   {
+    "doi": "10.1016/0166-2236(97)90029-1",
+    "title": "Intrinsic neuromodulation: altering neuronal circuits from within",
+    "yr": 1996,
+    "venue": "Trends in Neurosciences",
+    "auth": [
+     "Katz"
+    ]
+   }
+  ]
+ },
+ "C1a": {
+  "axis": "dendrite-ML",
+  "expect_author": "Beniaguev",
+  "query": "Single cortical neurons as deep artificial neural networks",
+  "top": {
+   "doi": "10.1016/j.neuron.2021.07.002",
+   "title": "Single cortical neurons as deep artificial neural networks",
+   "yr": 2021,
+   "venue": "Neuron",
+   "auth": [
+    "Beniaguev",
+    "Segev",
+    "London"
+   ]
+  },
+  "author_match": true,
+  "alts": [
+   {
+    "doi": "10.1101/613141",
+    "title": "Single Cortical Neurons as Deep Artificial Neural Networks",
+    "yr": 2019,
+    "venue": "",
+    "auth": [
+     "Beniaguev",
+     "Segev",
+     "London"
+    ]
+   },
+   {
+    "doi": "10.1016/j.neuron.2021.07.002",
+    "title": "Single cortical neurons as deep artificial neural networks",
+    "yr": 2021,
+    "venue": "Neuron",
+    "auth": [
+     "Beniaguev",
+     "Segev",
+     "London"
+    ]
+   }
+  ]
+ },
+ "C1b": {
+  "axis": "dendrite-ML",
+  "expect_author": "Jones",
+  "query": "Might a single neuron solve interesting machine learning problems through successive computations on its dendritic tree",
+  "top": {
+   "doi": "10.1162/neco_a_01390",
+   "title": "Might a Single Neuron Solve Interesting Machine Learning Problems Through Successive Computations on Its Dendritic Tree?",
+   "yr": 2021,
+   "venue": "Neural Computation",
+   "auth": [
+    "Jones",
+    "Kording"
+   ]
+  },
+  "author_match": true,
+  "alts": [
+   {
+    "doi": "10.1016/j.neuron.2026.07.028",
+    "title": "Assembly-based computations through contextual dendritic gating of plasticity",
+    "yr": 2026,
+    "venue": "Neuron",
+    "auth": [
+     "Onasch",
+     "Miehl",
+     "Mi\u0119kus",
+     "Gjorgjieva"
+    ]
+   },
+   {
+    "doi": "10.1007/978-1-4842-8017-1",
+    "title": "Adaptive Machine Learning Algorithms with Python",
+    "yr": 2022,
+    "venue": "",
+    "auth": [
+     "Chatterjee"
+    ]
+   }
+  ]
+ },
+ "C1c": {
+  "axis": "dendrite-ML",
+  "expect_author": "Chavlis",
+  "query": "Dendrites endow artificial neural networks with accurate robust and parameter-efficient learning",
+  "top": {
+   "doi": "10.1038/s41467-025-56297-9",
+   "title": "Dendrites endow artificial neural networks with accurate, robust and parameter-efficient learning",
+   "yr": 2025,
+   "venue": "Nature Communications",
+   "auth": [
+    "Chavlis",
+    "Poirazi"
+   ]
+  },
+  "author_match": true,
+  "alts": [
+   {
+    "doi": "10.1007/978-3-031-15919-0_32",
+    "title": "Towards Both\u00a0Accurate and\u00a0Robust Neural Networks Without Extra Data",
+    "yr": 2022,
+    "venue": "Lecture Notes in Computer Science",
+    "auth": [
+     "Liu",
+     "Zhao"
+    ]
+   },
+   {
+    "doi": "10.63028/10067/2223590151162165141",
+    "title": "Parameter-efficient deep learning : shrinking neural networks via guided training and iterative pruning",
+    "yr": null,
+    "venue": "",
+    "auth": [
+     "",
+     "Vandersmissen"
+    ]
+   }
+  ]
+ },
+ "C2a": {
+  "axis": "plastic-ML",
+  "expect_author": "Miconi",
+  "query": "Differentiable plasticity: training plastic neural networks with backpropagation",
+  "top": {
+   "arxiv": "1804.02464",
+   "title": "Differentiable plasticity: training plastic neural networks with backpropagation",
+   "auth": [
+    "Miconi",
+    "Clune",
+    "Stanley"
+   ]
+  },
+  "author_match": true,
+  "alts": [
+   {
+    "doi": "10.1109/ijcnn.1992.287184",
+    "title": "Training self-configuring backpropagation networks",
+    "yr": null,
+    "venue": "[Proceedings 1992] IJCNN International Joint Conference on Neural Networks",
+    "auth": [
+     "Bryant"
+    ]
+   },
+   {
+    "doi": "10.1016/j.neunet.2007.04.011",
+    "title": "Online reservoir adaptation by intrinsic plasticity for backpropagation\u2013decorrelation and echo state learning",
+    "yr": 2007,
+    "venue": "Neural Networks",
+    "auth": [
+     "Steil"
+    ]
+   }
+  ]
+ },
+ "C2b": {
+  "axis": "plastic-ML",
+  "expect_author": "Ba",
+  "query": "Using fast weights to attend to the recent past",
+  "top": {
+   "arxiv": "1610.06258",
+   "title": "Using Fast Weights to Attend to the Recent Past",
+   "auth": [
+    "Ba",
+    "Hinton",
+    "Mnih",
+    "Leibo"
+   ]
+  },
+  "author_match": true,
+  "alts": [
+   {
+    "doi": "10.7717/peerjcs.2167/fig-1",
+    "title": "Figure 1: NALA trajectories of the fast weights and slow weights on loss surface.",
+    "yr": null,
+    "venue": "",
+    "auth": []
+   },
+   {
+    "doi": "10.1142/9789814335867_0006",
+    "title": "FAST GENERATION OF WEIGHTS IN FINITE DIFFERENCE FORMULAS",
+    "yr": 1992,
+    "venue": "Recent Developments in Numerical Methods and Software for ODEs/DAEs/PDEs",
+    "auth": [
+     "FORNBERG"
+    ]
+   }
+  ]
+ },
+ "C2c": {
+  "axis": "plastic-ML",
+  "expect_author": "Najarro",
+  "query": "Meta-learning through Hebbian plasticity in random networks",
+  "top": {
+   "arxiv": "2007.02686",
+   "title": "Meta-Learning through Hebbian Plasticity in Random Networks",
+   "auth": [
+    "Najarro",
+    "Risi"
+   ]
+  },
+  "author_match": true,
+  "alts": [
+   {
+    "doi": "10.1109/tnnls.2023.3341446",
+    "title": "Memory-Dependent Computation and Learning in Spiking Neural Networks Through Hebbian Plasticity",
+    "yr": 2025,
+    "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+    "auth": [
+     "Limbacher",
+     "\u00d6zdenizci",
+     "Legenstein"
+    ]
+   },
+   {
+    "doi": "10.1007/s42979-026-04932-7",
+    "title": "Neuroplastic Neural Networks: Adaptive Learning Through Structural Plasticity and Hebbian Updates",
+    "yr": 2026,
+    "venue": "SN Computer Science",
+    "auth": [
+     "Fahyaz",
+     "Kiani",
+     "Muyeba"
+    ]
+   }
+  ]
+ },
+ "C3a": {
+  "axis": "reservoir",
+  "expect_author": "Maass",
+  "query": "Real-time computing without stable states: a new framework for neural computation based on perturbations",
+  "top": {
+   "doi": "10.1162/089976602760407955",
+   "title": "Real-Time Computing Without Stable States: A New Framework for Neural Computation Based on Perturbations",
+   "yr": 2002,
+   "venue": "Neural Computation",
+   "auth": [
+    "Maass",
+    "Natschl\u00e4ger",
+    "Markram"
+   ]
+  },
+  "author_match": true,
+  "alts": [
+   {
+    "doi": "10.71426/jcdt.v1.i2.pp91-97",
+    "title": "Graph Neural Network-Based Framework for Real-Time Financial Fraud Detection in Digital Payment Ecosystems",
+    "yr": 2025,
+    "venue": "Journal of Computing and Data Technology",
+    "auth": [
+     "Ramakrishna"
+    ]
+   },
+   {
+    "doi": "10.1007/s00521-026-12260-3",
+    "title": "A motion-based framework for real-time anomaly detection in crowded scenes",
+    "yr": 2026,
+    "venue": "Neural Computing and Applications",
+    "auth": [
+     "Mabrouk",
+     "Abdel-Fattah",
+     "Taha"
+    ]
+   }
+  ]
+ },
+ "C4a": {
+  "axis": "local-learning",
+  "expect_author": "Scellier",
+  "query": "Equilibrium propagation: bridging the gap between energy-based models and backpropagation",
+  "top": {
+   "doi": "10.3389/fncom.2017.00024",
+   "title": "Equilibrium Propagation: Bridging the Gap between Energy-Based Models and Backpropagation",
+   "yr": 2017,
+   "venue": "Frontiers in Computational Neuroscience",
+   "auth": [
+    "Scellier",
+    "Bengio"
+   ]
+  },
+  "author_match": true,
+  "alts": [
+   {
+    "doi": "10.70675/7e418e35zc1bbz4781zab38z8ef476691719",
+    "title": "Bridging the gap between natural language system requirements and architecture design models",
+    "yr": null,
+    "venue": "",
+    "auth": [
+     "Kochbati"
+    ]
+   },
+   {
+    "doi": "10.70675/1867ffdcz53b5z4860z8764z86f20f754ef1",
+    "title": "Character animation : Bridging the gap between AI models and artistic animation pipelines",
+    "yr": null,
+    "venue": "",
+    "auth": [
+     "Cheynel"
+    ]
+   }
+  ]
+ },
+ "C4b": {
+  "axis": "local-learning",
+  "expect_author": "Lillicrap",
+  "query": "Backpropagation and the brain",
+  "top": {
+   "doi": "10.1038/s41583-020-0277-3",
+   "title": "Backpropagation and the brain",
+   "yr": 2020,
+   "venue": "Nature Reviews Neuroscience",
+   "auth": [
+    "Lillicrap",
+    "Santoro",
+    "Marris",
+    "Akerman"
+   ]
+  },
+  "author_match": true,
+  "alts": [
+   {
+    "doi": "10.2139/ssrn.4398262",
+    "title": "Replay as a Basis for Backpropagation Through Time in the Brain",
+    "yr": 2023,
+    "venue": "",
+    "auth": [
+     "Cheng",
+     "Brown"
+    ]
+   },
+   {
+    "doi": "10.1101/2023.02.23.529770",
+    "title": "Replay as a basis for backpropagation through time in the brain",
+    "yr": 2023,
+    "venue": "",
+    "auth": [
+     "Cheng",
+     "Brown"
+    ]
+   }
+  ]
+ },
+ "C5a": {
+  "axis": "glia-ML",
+  "expect_author": "Kozachkov",
+  "query": "Building transformers from neurons and astrocytes",
+  "top": {
+   "doi": "10.1073/pnas.2219150120",
+   "title": "Building transformers from neurons and astrocytes",
+   "yr": 2023,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "auth": [
+    "Kozachkov",
+    "Kastanenka",
+    "Krotov"
+   ]
+  },
+  "author_match": true,
+  "alts": [
+   {
+    "doi": "10.1073/pnas.2219150120",
+    "title": "Building transformers from neurons and astrocytes",
+    "yr": 2023,
+    "venue": "Proceedings of the National Academy of Sciences",
+    "auth": [
+     "Kozachkov",
+     "Kastanenka",
+     "Krotov"
+    ]
+   },
+   {
+    "doi": "10.1016/b978-012369437-9/50022-0",
+    "title": "Exocytic Release of Glutamate from Astrocytes: Comparison to Neurons",
+    "yr": 2007,
+    "venue": "Protein Trafficking in Neurons",
+    "auth": [
+     "LEE",
+     "PARPURA"
+    ]
+   }
+  ]
+ },
+ "C6a": {
+  "axis": "physical-learning",
+  "expect_author": "Stern",
+  "query": "Learning without neurons in physical systems",
+  "top": {
+   "doi": "10.1146/annurev-conmatphys-040821-113439",
+   "title": "Learning Without Neurons in Physical Systems",
+   "yr": 2023,
+   "venue": "Annual Review of Condensed Matter Physics",
+   "auth": [
+    "Stern",
+    "Murugan"
+   ]
+  },
+  "author_match": true,
+  "alts": [
+   {
+    "doi": "10.1002/9781119706830.ch2",
+    "title": "Closed Systems without Chemical Reactions",
+    "yr": 2020,
+    "venue": "Thermodynamic Processes 1",
+    "auth": []
+   },
+   {
+    "doi": "10.1016/0921-8890(91)90011-9",
+    "title": "Learning reliable manipulation strategies without initial physical models",
+    "yr": 1991,
+    "venue": "Robotics and Autonomous Systems",
+    "auth": [
+     "Christiansen",
+     "Mason",
+     "Mitchell"
+    ]
+   }
+  ]
+ },
+ "C6b": {
+  "axis": "physical-learning",
+  "expect_author": "Dillavou",
+  "query": "Machine learning without a processor: Emergent learning in a nonlinear analog network",
+  "top": {
+   "doi": "10.1073/pnas.2319718121",
+   "title": "Machine learning without a processor: Emergent learning in a nonlinear analog network",
+   "yr": 2024,
+   "venue": "Proceedings of the National Academy of Sciences",
+   "auth": [
+    "Dillavou",
+    "Beyer",
+    "Stern",
+    "Liu"
+   ]
+  },
+  "author_match": true,
+  "alts": [
+   {
+    "doi": "10.3390/e17020818",
+    "title": "Distributed Extreme Learning Machine for Nonlinear Learning over Network",
+    "yr": 2015,
+    "venue": "Entropy",
+    "auth": [
+     "Huang",
+     "Li"
+    ]
+   },
+   {
+    "doi": "10.14711/thesis-991013231858403412",
+    "title": "The contributions of physics to machine learning : all-optical neural network with nonlinear activation function and deep self-learning neural network inspired by field theory",
+    "yr": null,
+    "venue": "",
+    "auth": [
+     "Zhao"
+    ]
+   }
+  ]
+ },
+ "K1a": {
+  "axis": "NCA",
+  "expect_author": "Mordvintsev",
+  "query": "Growing neural cellular automata",
+  "top": {
+   "doi": "10.23915/distill.00023",
+   "title": "Growing Neural Cellular Automata",
+   "yr": 2020,
+   "venue": "Distill",
+   "auth": [
+    "Mordvintsev",
+    "Randazzo",
+    "Niklasson",
+    "Levin"
+   ]
+  },
+  "author_match": true,
+  "alts": [
+   {
+    "doi": "10.1162/isal_a_00564",
+    "title": "Growing Steerable Neural Cellular Automata",
+    "yr": 2023,
+    "venue": "The 2023 Conference on Artificial Life",
+    "auth": [
+     "Randazzo",
+     "Mordvintsev",
+     "Fouts"
+    ]
+   },
+   {
+    "doi": "10.23915/distill.00023",
+    "title": "Growing Neural Cellular Automata",
+    "yr": 2020,
+    "venue": "Distill",
+    "auth": [
+     "Mordvintsev",
+     "Randazzo",
+     "Niklasson",
+     "Levin"
+    ]
+   }
+  ]
+ },
+ "K1b": {
+  "axis": "NCA",
+  "expect_author": "Randazzo",
+  "query": "Self-classifying MNIST digits",
+  "top": {
+   "doi": "10.23915/distill.00027.002",
+   "title": "Self-classifying MNIST Digits",
+   "yr": 2020,
+   "venue": "Distill",
+   "auth": [
+    "Randazzo",
+    "Mordvintsev",
+    "Niklasson",
+    "Levin"
+   ]
+  },
+  "author_match": true,
+  "alts": [
+   {
+    "doi": "10.1162/isal.a.892",
+    "title": "Morphological Cognition: Classifying MNIST Digits Through Morphological Computation Alone",
+    "yr": 2025,
+    "venue": "ALIFE 2025: Ciphers of Life: Proceedings of the Artificial Life Conference 2025",
+    "auth": [
+     "Mertan",
+     "Cheney"
+    ]
+   },
+   {
+    "doi": "10.7717/peerj-cs.1195/table-12",
+    "title": "Table 12: Precision per class of each of the six methods when classifying the MNIST dataset.",
+    "yr": null,
+    "venue": "",
+    "auth": []
+   }
+  ]
+ },
+ "K2a": {
+  "axis": "adaptive-net",
+  "expect_author": "Gross",
+  "query": "Adaptive coevolutionary networks: a review",
+  "top": {
+   "doi": "10.1098/rsif.2007.1229",
+   "title": "Adaptive coevolutionary networks: a review",
+   "yr": 2007,
+   "venue": "Journal of The Royal Society Interface",
+   "auth": [
+    "Gross",
+    "Blasius"
+   ]
+  },
+  "author_match": true,
+  "alts": [
+   {
+    "doi": "10.1111/ele.14501/v1/review2",
+    "title": "Review for \"The Hierarchical Coevolutionary Units of Ecological Networks\"",
+    "yr": 2024,
+    "venue": "",
+    "auth": []
+   },
+   {
+    "doi": "10.1111/ele.14501/v2/review3",
+    "title": "Review for \"The Hierarchical Coevolutionary Units of Ecological Networks\"",
+    "yr": 2024,
+    "venue": "",
+    "auth": []
+   }
+  ]
+ },
+ "K3a": {
+  "axis": "collective-ML",
+  "expect_author": "Ha",
+  "query": "Collective intelligence for deep learning: A survey of recent developments",
+  "top": {
+   "doi": "10.1177/26339137221114874",
+   "title": "Collective intelligence for deep learning: A survey of recent developments",
+   "yr": 2022,
+   "venue": "Collective Intelligence",
+   "auth": [
+    "Ha",
+    "Tang"
+   ]
+  },
+  "author_match": true,
+  "alts": [
+   {
+    "doi": "10.2174/9781681089676122010009",
+    "title": "A Survey of Current Mobile Learning Technology in India",
+    "yr": 2022,
+    "venue": "Recent Developments in Artificial Intelligence and Communication Technologies",
+    "auth": [
+     "Gupta",
+     "Kumar"
+    ]
+   },
+   {
+    "doi": "10.1007/978-3-319-01787-7",
+    "title": "Recent Developments in Computational Collective Intelligence",
+    "yr": 2014,
+    "venue": "Studies in Computational Intelligence",
+    "auth": []
+   }
+  ]
+ },
+ "K4a": {
+  "axis": "basal-cognition",
+  "expect_author": "Levin",
+  "query": "Technological approach to mind everywhere",
+  "top": {
+   "doi": "10.31234/osf.io/t6e8p",
+   "title": "Technological Approach to Mind Everywhere (TAME): an experimentally- grounded framework for understanding diverse bodies and minds",
+   "yr": 2021,
+   "venue": "",
+   "auth": [
+    "Levin"
+   ]
+  },
+  "author_match": true,
+  "alts": [
+   {
+    "doi": "10.31219/osf.io/gdvn8_v2",
+    "title": "Technological Approach to Mind Everywhere:  A Framework for Conceptualizing Goal-Directedness in Biology and Other Domains",
+    "yr": 2025,
+    "venue": "",
+    "auth": [
+     "Levin",
+     "Resnik"
+    ]
+   },
+   {
+    "doi": "10.31219/osf.io/gdvn8_v3",
+    "title": "Technological Approach to Mind Everywhere:  A Framework for Conceptualizing Goal-Directedness in Biology and Other Domains",
+    "yr": 2025,
+    "venue": "",
+    "auth": [
+     "Levin",
+     "Resnik"
+    ]
+   }
+  ]
+ }
+}

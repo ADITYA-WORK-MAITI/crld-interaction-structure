@@ -1,0 +1,407 @@
+{
+ "crld_large_N": [
+  {
+   "t": "A deep reinforcement learning model based on deterministic policy gradient for collective neural crest cell migration",
+   "y": 2020,
+   "v": "",
+   "a": [
+    "Lykotrafitis"
+   ],
+   "doi": "10.26226/morressier.5f5f8e69aa777f8ba5bd6177"
+  },
+  {
+   "t": "Deterministic dynamics of distributional multi-agent reinforcement learning",
+   "y": 2025,
+   "v": "",
+   "a": [
+    "Bergerot",
+    "Romanczuk",
+    "Barfuss"
+   ],
+   "doi": "10.64898/2025.12.22.696014"
+  },
+  {
+   "t": "Reinforcement Learning Dynamics in the Infinite Memory Limit",
+   "y": 2020,
+   "v": "International Joint Conference on Autonomous Agents and Multiagent Systems",
+   "a": [
+    "Barfuss"
+   ],
+   "doi": "10.65109/crff7553"
+  },
+  {
+   "t": "Scaling up Deep Reinforcement Learning for Intelligent Video Game Agents",
+   "y": 2022,
+   "v": "2022 IEEE International Conference on Smart Computing (SMARTCOMP)",
+   "a": [
+    "Debner"
+   ],
+   "doi": "10.1109/smartcomp55677.2022.00050"
+  },
+  {
+   "t": "Benchmarking Large Language Model Agents against Reinforcement Learning for Building Demand Response",
+   "y": 2026,
+   "v": "",
+   "a": [
+    "Wang"
+   ],
+   "doi": "10.2139/ssrn.7447344"
+  },
+  {
+   "t": "Moderate confirmation bias enhances collective decision-making in reinforcement-learning agents",
+   "y": 2023,
+   "v": "",
+   "a": [
+    "Bergerot",
+    "Barfuss",
+    "Romanczuk"
+   ],
+   "doi": "10.1101/2023.11.21.568073"
+  }
+ ],
+ "exchangeable": [
+  {
+   "t": "Optimal Policy Without Rational Expectations: A Sufficient Statistic Solution",
+   "y": 2024,
+   "v": "",
+   "a": [
+    "Adams"
+   ],
+   "doi": "10.2139/ssrn.4892335"
+  },
+  {
+   "t": "Transitional dynamics in network game with heterogeneous agents: stochastic case",
+   "y": 2021,
+   "v": "Mathematical Game Theory and Applications",
+   "a": [
+    "\u041a\u043e\u0440\u043e\u043b\u0435\u0432",
+    "Korolev"
+   ],
+   "doi": "10.17076/mgta_2021_1_33"
+  },
+  {
+   "t": "&lt;p&gt;A Universal Sufficient Statistic for Health Financing Policy&lt;/p&gt;",
+   "y": 2026,
+   "v": "",
+   "a": [
+    "Iziga"
+   ],
+   "doi": "10.2139/ssrn.7055339"
+  },
+  {
+   "t": "Stochastic imitative game dynamics with committed agents",
+   "y": 2012,
+   "v": "Journal of Economic Theory",
+   "a": [
+    "Sandholm"
+   ],
+   "doi": "10.1016/j.jet.2012.05.018"
+  },
+  {
+   "t": "Sufficient Statistic",
+   "y": 2005,
+   "v": "Van Nostrand's Scientific Encyclopedia",
+   "a": [],
+   "doi": "10.1002/0471743984.vse6817"
+  },
+  {
+   "t": "Examples of Sufficient or Non-Sufficient Statistic |X|For an Unknown Parameter \u0398: Discrete Distributions",
+   "y": 2024,
+   "v": "",
+   "a": [
+    "Mukhopadhyay"
+   ],
+   "doi": "10.2139/ssrn.4703678"
+  }
+ ],
+ "meanfield_exact": [
+  {
+   "t": "Single\u2010Agent Reinforcement Learning",
+   "y": 2014,
+   "v": "Multi\u2010Agent Machine Learning",
+   "a": [],
+   "doi": "10.1002/9781118884614.ch2"
+  },
+  {
+   "t": "Introduction",
+   "y": 2020,
+   "v": "Multi\u2010Agent Coordination",
+   "a": [],
+   "doi": "10.1002/9781119699057.ch1"
+  },
+  {
+   "t": "Enhancing Multi-Agent Reinforcement Learning Via World Model Assisted Single-Agent Population Policies in Multi-Uav\u00a0Cooperative-Competitive Scenario",
+   "y": 2024,
+   "v": "",
+   "a": [
+    "Cheng",
+    "Li",
+    "Dong"
+   ],
+   "doi": "10.2139/ssrn.5074009"
+  },
+  {
+   "t": "A Population-Based Approach for Multi-Agent Interpretable Reinforcement Learning",
+   "y": 2023,
+   "v": "",
+   "a": [
+    "Crespi",
+    "Ferigo",
+    "Custode"
+   ],
+   "doi": "10.2139/ssrn.4467882"
+  },
+  {
+   "t": "Quantifying the effects of environment and population diversity in multi-agent reinforcement learning",
+   "y": 2022,
+   "v": "Autonomous Agents and Multi-Agent Systems",
+   "a": [
+    "McKee",
+    "Leibo",
+    "Beattie"
+   ],
+   "doi": "10.1007/s10458-022-09548-8"
+  },
+  {
+   "t": "Multi-Agent Reinforcement Learning",
+   "y": 2022,
+   "v": "Deep Reinforcement Learning",
+   "a": [
+    "Plaat"
+   ],
+   "doi": "10.1007/978-981-19-0638-1_7"
+  }
+ ],
+ "poisson_binomial": [
+  {
+   "t": "A Multi-Group Public Goods Game Experiment",
+   "y": null,
+   "v": "",
+   "a": [
+    "",
+    "Berman"
+   ],
+   "doi": "10.36837/chapman.000598"
+  },
+  {
+   "t": "Poisson\u2010Binomial Distribution",
+   "y": 2014,
+   "v": "Wiley StatsRef: Statistics Reference Online",
+   "a": [],
+   "doi": "10.1002/9781118445112.stat01111"
+  },
+  {
+   "t": "Binomial approximation to the Poisson binomial distribution: The Krawtchouk expansion",
+   "y": 2000,
+   "v": "\u0422\u0435\u043e\u0440\u0438\u044f \u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e\u0441\u0442\u0435\u0439 \u0438 \u0435\u0435 \u043f\u0440\u0438\u043c\u0435\u043d\u0435\u043d\u0438\u044f",
+   "a": [
+    "Roos",
+    "Roos"
+   ],
+   "doi": "10.4213/tvp466"
+  },
+  {
+   "t": "Poisson\u2010Binomial Distribution",
+   "y": 2005,
+   "v": "Encyclopedia of Statistical Sciences",
+   "a": [],
+   "doi": "10.1002/0471667196.ess1992.pub2"
+  },
+  {
+   "t": "Partial Lying and the Poisson Binomial Distribution",
+   "y": 2019,
+   "v": "",
+   "a": [
+    "Pierre"
+   ],
+   "doi": "10.2139/ssrn.3492280"
+  },
+  {
+   "t": "Binomial distribution and Poisson distribution",
+   "y": 2010,
+   "v": "Magnetic Memory",
+   "a": [],
+   "doi": "10.1017/cbo9780511676208.015"
+  }
+ ],
+ "anonymous_games": [
+  {
+   "t": "Asymmetric equilibria in symmetric games with many players",
+   "y": 1988,
+   "v": "Economics Letters",
+   "a": [
+    "Cabral"
+   ],
+   "doi": "10.1016/0165-1765(88)90171-1"
+  },
+  {
+   "t": "Nash equilibria in symmetric graph games with partial observation",
+   "y": 2017,
+   "v": "Information and Computation",
+   "a": [
+    "Bouyer",
+    "Markey",
+    "Vester"
+   ],
+   "doi": "10.1016/j.ic.2016.10.010"
+  },
+  {
+   "t": "Equilibria in symmetric games: Theory and applications",
+   "y": 2017,
+   "v": "Theoretical Economics",
+   "a": [
+    "Hefti"
+   ],
+   "doi": "10.3982/te2151"
+  },
+  {
+   "t": "Polynomial-Time Computation of Exact $\\Phi$-Equilibria in Polyhedral Games",
+   "y": 2024,
+   "v": "Advances in Neural Information Processing Systems 37",
+   "a": [
+    "Farina",
+    "Pipis"
+   ],
+   "doi": "10.52202/079017-0137"
+  },
+  {
+   "t": "Polynomial Time Equilibria in Bottleneck Congestion Games",
+   "y": 2018,
+   "v": "Proceedings of the 2018 ACM Conference on Economics and Computation",
+   "a": [
+    "Busch",
+    "Kannan"
+   ],
+   "doi": "10.1145/3219166.3219221"
+  },
+  {
+   "t": "Oddness of the number of Nash equilibria: The case of polynomial payoff functions",
+   "y": 2024,
+   "v": "Games and Economic Behavior",
+   "a": [
+    "Bich",
+    "Fixary"
+   ],
+   "doi": "10.1016/j.geb.2024.04.005"
+  }
+ ],
+ "population_games": [
+  {
+   "t": "Population Games and Deterministic Evolutionary Dynamics",
+   "y": 2015,
+   "v": "Handbook of Game Theory with Economic Applications",
+   "a": [
+    "Sandholm"
+   ],
+   "doi": "10.1016/b978-0-444-53766-9.00013-6"
+  },
+  {
+   "t": "Deterministic Evolutionary Dynamics in Bilingual Games",
+   "y": 2023,
+   "v": "",
+   "a": [
+    "Arigapudi"
+   ],
+   "doi": "10.2139/ssrn.4657266"
+  },
+  {
+   "t": "Deterministic Evolutionary Dynamics in Bilingual Games",
+   "y": 2023,
+   "v": "",
+   "a": [
+    "Arigapudi"
+   ],
+   "doi": "10.2139/ssrn.4591028"
+  },
+  {
+   "t": "A deterministic model of population dynamics",
+   "y": null,
+   "v": "",
+   "a": [],
+   "doi": "10.7554/elife.32976.025"
+  },
+  {
+   "t": "What Play Conceals: Identification Limits of Learning Dynamics in Two-Population Games",
+   "y": 2026,
+   "v": "",
+   "a": [
+    "Mahadevaiah"
+   ],
+   "doi": "10.21203/rs.3.rs-10517189/v1"
+  },
+  {
+   "t": "Stochastic Learning Dynamics and Speed of Convergence in Population Games",
+   "y": 2016,
+   "v": "Econometrica",
+   "a": [
+    "Arieli",
+    "Young"
+   ],
+   "doi": "10.3982/ecta10740"
+  }
+ ],
+ "barfuss_scaling": [
+  {
+   "t": "Deterministic limit of temporal difference reinforcement learning for stochastic games",
+   "y": 2019,
+   "v": "Physical Review E",
+   "a": [
+    "Barfuss",
+    "Donges",
+    "Kurths"
+   ],
+   "doi": "10.1103/physreve.99.043305"
+  },
+  {
+   "t": "Deterministic dynamics of distributional multi-agent reinforcement learning",
+   "y": 2025,
+   "v": "",
+   "a": [
+    "Bergerot",
+    "Romanczuk",
+    "Barfuss"
+   ],
+   "doi": "10.64898/2025.12.22.696014"
+  },
+  {
+   "t": "Reinforcement Learning Dynamics in the Infinite Memory Limit",
+   "y": 2020,
+   "v": "International Joint Conference on Autonomous Agents and Multiagent Systems",
+   "a": [
+    "Barfuss"
+   ],
+   "doi": "10.65109/crff7553"
+  },
+  {
+   "t": "Q-Learning: Model Free Reinforcement Learning and Temporal Difference Learning",
+   "y": 2022,
+   "v": "",
+   "a": [
+    "Brunton"
+   ],
+   "doi": "10.52843/cassyni.ss11hp"
+  },
+  {
+   "t": "Moderate confirmation bias enhances collective decision-making in reinforcement-learning agents",
+   "y": 2023,
+   "v": "",
+   "a": [
+    "Bergerot",
+    "Barfuss",
+    "Romanczuk"
+   ],
+   "doi": "10.1101/2023.11.21.568073"
+  },
+  {
+   "t": "Deterministic dynamics of distributional multi-agent reinforcement learning",
+   "y": 2026,
+   "v": "PLOS Computational Biology",
+   "a": [
+    "Bergerot",
+    "Romanczuk",
+    "Barfuss"
+   ],
+   "doi": "10.1371/journal.pcbi.1014723"
+  }
+ ]
+}

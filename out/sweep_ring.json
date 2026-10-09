@@ -1,0 +1,112 @@
+{
+ "meta": {
+  "params": {
+   "alpha": 0.05,
+   "beta": 120.0,
+   "gamma": 0.95,
+   "variant": "value"
+  },
+  "base_env": {
+   "r_prosperous": 3.0,
+   "degraded_factor": 0.2,
+   "recovery": 0.5,
+   "threshold": 0.5,
+   "steepness": 20.0
+  },
+  "recording_space": "policy",
+  "seed": 20261008,
+  "elapsed_s": 4743.771306099952
+ },
+ "rows": [
+  {
+   "N": 6,
+   "D": 12,
+   "n_converged": 46,
+   "n_failed": 74,
+   "R_quotient": 3,
+   "R_raw": 13,
+   "frac_symmetry_broken": 1.0,
+   "median_steps": 865.5,
+   "max_amplitude": 2.9424873995709255e-11,
+   "mean_coop": 0.6583965955337507,
+   "d_twonn": 2.3429864487382805,
+   "graph": "ring",
+   "degree": 2
+  },
+  {
+   "N": 8,
+   "D": 16,
+   "n_converged": 120,
+   "n_failed": 0,
+   "R_quotient": 4,
+   "R_raw": 35,
+   "frac_symmetry_broken": 1.0,
+   "median_steps": 1541.0,
+   "max_amplitude": 6.872846736172278e-11,
+   "mean_coop": 0.6303333186066598,
+   "d_twonn": 6.223805090386216,
+   "graph": "ring",
+   "degree": 2
+  },
+  {
+   "N": 10,
+   "D": 20,
+   "n_converged": 120,
+   "n_failed": 0,
+   "R_quotient": 8,
+   "R_raw": 56,
+   "frac_symmetry_broken": 1.0,
+   "median_steps": 1593.0,
+   "max_amplitude": 7.579259442280772e-11,
+   "mean_coop": 0.606089996811264,
+   "d_twonn": 4.156460641628361,
+   "graph": "ring",
+   "degree": 2
+  },
+  {
+   "N": 14,
+   "D": 28,
+   "n_converged": 103,
+   "n_failed": 17,
+   "R_quotient": 9,
+   "R_raw": 45,
+   "frac_symmetry_broken": 1.0,
+   "median_steps": 2093.0,
+   "max_amplitude": 1.533668747555339e-10,
+   "mean_coop": 0.5507879535071293,
+   "d_twonn": 1.5848224349439581,
+   "graph": "ring",
+   "degree": 2
+  },
+  {
+   "N": 20,
+   "D": 40,
+   "n_converged": 120,
+   "n_failed": 0,
+   "R_quotient": 14,
+   "R_raw": 86,
+   "frac_symmetry_broken": 1.0,
+   "median_steps": 1064.5,
+   "max_amplitude": 3.5016822774736056e-11,
+   "mean_coop": 0.35696327018885593,
+   "d_twonn": 4.445849839693779,
+   "graph": "ring",
+   "degree": 2
+  },
+  {
+   "N": 28,
+   "D": 56,
+   "n_converged": 69,
+   "n_failed": 11,
+   "R_quotient": 32,
+   "R_raw": 65,
+   "frac_symmetry_broken": 1.0,
+   "median_steps": 923.0,
+   "max_amplitude": 2.2946367028708892e-11,
+   "mean_coop": 0.3453815148912727,
+   "d_twonn": 0.07941383137723804,
+   "graph": "ring",
+   "degree": 2
+  }
+ ]
+}

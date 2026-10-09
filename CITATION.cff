@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software or its results, please cite it as below."
+title: "Interaction structure decides whether a collective learning repertoire grows or collapses"
+authors:
+  - family-names: Maiti
+    given-names: Aditya
+type: software
+license: MIT
+repository-code: "https://github.com/ADITYA-WORK-MAITI/crld-interaction-structure"
+date-released: 2026-10-09
+version: "1.0.0"
+keywords:
+  - collective reinforcement learning
+  - learning dynamics
+  - anonymous games
+  - interaction structure
+  - multi-agent systems

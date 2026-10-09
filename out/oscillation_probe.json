@@ -1,0 +1,60 @@
+{
+ "6": [
+  {
+   "max_step_change": 0.0,
+   "amplitude_over_window": 0.0,
+   "verdict": "fixed point"
+  },
+  {
+   "max_step_change": 0.0,
+   "amplitude_over_window": 0.0,
+   "verdict": "fixed point"
+  },
+  {
+   "max_step_change": 0.0,
+   "amplitude_over_window": 0.0,
+   "verdict": "fixed point"
+  },
+  {
+   "max_step_change": 0.0,
+   "amplitude_over_window": 0.0,
+   "verdict": "fixed point"
+  }
+ ],
+ "14": [
+  {
+   "max_step_change": 1.3322676295501878e-15,
+   "amplitude_over_window": 7.327471962526033e-15,
+   "verdict": "fixed point"
+  },
+  {
+   "max_step_change": 3.3306690738754696e-16,
+   "amplitude_over_window": 3.3306690738754696e-16,
+   "verdict": "fixed point"
+  }
+ ],
+ "28": [
+  {
+   "max_step_change": 1.2212453270876722e-15,
+   "amplitude_over_window": 7.993605777301127e-15,
+   "verdict": "fixed point"
+  },
+  {
+   "max_step_change": 1.2212453270876722e-15,
+   "amplitude_over_window": 6.38378239159465e-15,
+   "verdict": "fixed point"
+  },
+  {
+   "max_step_change": 1.27675647831893e-15,
+   "amplitude_over_window": 7.882583474838611e-15,
+   "verdict": "fixed point"
+  },
+  {
+   "max_step_change": 1.2212453270876722e-15,
+   "amplitude_over_window": 6.328271240363392e-15,
+   "verdict": "fixed point"
+  }
+ ],
+ "_field_note": "Diagnostics are {max_step_change, amplitude_over_window}. max_step_change decides fixed point vs oscillation; amplitude_over_window is the total excursion across the window and is necessarily the larger of the two.",
+ "_provenance": "ring degree 2. Procedure: converge with max_steps=4000, confirm_cap=300; non-converged endpoints advanced 16000 further iterations, then diagnosed over a 1200-iteration window. alpha=0.05, beta=120.0, gamma=0.95, seed=5."
+}

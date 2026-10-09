@@ -1,0 +1,275 @@
+{
+ "TRIESCH05": {
+  "expect": "Triesch",
+  "query": "A gradient rule for the intrinsic plasticity of individual neurons",
+  "top": {
+   "doi": "10.70675/0eecd7a8z592az46a7za414z15cd126b5463",
+   "t": "Long-range connectivity defines learning-induced intrinsic plasticity of prelimbic neurons",
+   "y": null,
+   "v": "",
+   "a": [
+    "Szlapczynska"
+   ]
+  },
+  "match": false,
+  "alts": [
+   {
+    "doi": "10.1007/11550822_11",
+    "t": "A Gradient Rule for the Plasticity of a Neuron\u2019s Intrinsic Excitability",
+    "y": 2005,
+    "v": "Lecture Notes in Computer Science",
+    "a": [
+     "Triesch"
+    ]
+   }
+  ]
+ },
+ "TRIESCH07": {
+  "expect": "Triesch",
+  "query": "Synergies between intrinsic and synaptic plasticity mechanisms",
+  "top": {
+   "doi": "10.1162/neco.2007.19.4.885",
+   "t": "Synergies Between Intrinsic and Synaptic Plasticity Mechanisms",
+   "y": 2007,
+   "v": "Neural Computation",
+   "a": [
+    "Triesch"
+   ]
+  },
+  "match": true,
+  "alts": [
+   {
+    "doi": "10.1016/j.neucom.2020.12.007",
+    "t": "Synergies between synaptic and intrinsic plasticity in echo state networks",
+    "y": 2021,
+    "v": "Neurocomputing",
+    "a": [
+     "Wang",
+     "Jin",
+     "Hao"
+    ]
+   }
+  ]
+ },
+ "SORN09": {
+  "expect": "Lazar",
+  "query": "SORN: a self-organizing recurrent neural network",
+  "top": {
+   "doi": "10.3389/neuro.10.023.2009",
+   "t": "SORN: a Self-organizing Recurrent Neural Network",
+   "y": 2009,
+   "v": "Frontiers in Computational Neuroscience",
+   "a": [
+    "Lazar"
+   ]
+  },
+  "match": true,
+  "alts": [
+   {
+    "doi": "10.3389/neuro.10.019.2009",
+    "t": "SORN: a self-organizing recurrent neural network",
+    "y": 2009,
+    "v": "Frontiers in Computational Neuroscience",
+    "a": [
+     "Lazar"
+    ]
+   }
+  ]
+ },
+ "LEVINA07": {
+  "expect": "Levina",
+  "query": "Dynamical synapses causing self-organized criticality in neural networks",
+  "top": {
+   "doi": "10.1038/nphys758",
+   "t": "Dynamical synapses causing self-organized criticality in neural networks",
+   "y": 2007,
+   "v": "Nature Physics",
+   "a": [
+    "Levina",
+    "Herrmann",
+    "Geisel"
+   ]
+  },
+  "match": true,
+  "alts": [
+   {
+    "doi": "10.3389/fnsys.2025.1590743",
+    "t": "Network structure influences self-organized criticality in neural networks with dynamical synapses",
+    "y": 2025,
+    "v": "Frontiers in Systems Neuroscience",
+    "a": [
+     "Sugimoto",
+     "Yadohisa",
+     "Abe"
+    ]
+   }
+  ]
+ },
+ "DELPAPA17": {
+  "expect": "Del Papa",
+  "query": "Criticality meets learning: criticality signatures in a self-organizing recurrent neural network",
+  "top": {
+   "doi": "10.1371/journal.pone.0178683",
+   "t": "Criticality meets learning: Criticality signatures in a self-organizing recurrent neural network",
+   "y": 2017,
+   "v": "PLOS ONE",
+   "a": [
+    "Del Papa",
+    "Priesemann",
+    "Triesch"
+   ]
+  },
+  "match": false,
+  "alts": [
+   {
+    "doi": "10.1002/9783527651009.ch10",
+    "t": "Self\u2010Organized Criticality in Neural Network Models",
+    "y": 2014,
+    "v": "Criticality in Neural Systems",
+    "a": [
+     "Rybarsch",
+     "Bornholdt"
+    ]
+   }
+  ]
+ },
+ "BERT04": {
+  "expect": "Bertschinger",
+  "query": "Real-time computation at the edge of chaos in recurrent neural networks",
+  "top": {
+   "doi": "10.1162/089976604323057443",
+   "t": "Real-Time Computation at the Edge of Chaos in Recurrent Neural Networks",
+   "y": 2004,
+   "v": "Neural Computation",
+   "a": [
+    "Bertschinger",
+    "Natschl\u00e4ger"
+   ]
+  },
+  "match": true,
+  "alts": [
+   {
+    "doi": "10.1162/neco.2007.19.1.80",
+    "t": "The Road to Chaos by Time-Asymmetric Hebbian Learning in Recurrent Neural Networks",
+    "y": 2007,
+    "v": "Neural Computation",
+    "a": [
+     "Molter",
+     "Salihoglu",
+     "Bersini"
+    ]
+   }
+  ]
+ },
+ "BOED12": {
+  "expect": "Boedecker",
+  "query": "Information processing in echo state networks at the edge of chaos",
+  "top": {
+   "doi": "10.2139/ssrn.5334040",
+   "t": "Characterising the Edge of Chaos in Echo State Networks",
+   "y": 2025,
+   "v": "",
+   "a": [
+    "Gao"
+   ]
+  },
+  "match": false,
+  "alts": [
+   {
+    "doi": "10.2139/ssrn.7023444",
+    "t": "Controlled Chaos: Echo State Networks at the Edge of Chaos for Interpretable Financial Forecasting",
+    "y": 2026,
+    "v": "",
+    "a": [
+     "Giantsidi",
+     "Claudia"
+    ]
+   }
+  ]
+ },
+ "ZENKE17": {
+  "expect": "Zenke",
+  "query": "The temporal paradox of Hebbian learning and homeostatic plasticity",
+  "top": {
+   "doi": "10.1101/116400",
+   "t": "The temporal paradox of Hebbian learning and homeostatic plasticity",
+   "y": 2017,
+   "v": "",
+   "a": [
+    "Zenke",
+    "Gerstner",
+    "Ganguli"
+   ]
+  },
+  "match": true,
+  "alts": [
+   {
+    "doi": "10.1016/j.conb.2017.03.015",
+    "t": "The temporal paradox of Hebbian learning and homeostatic plasticity",
+    "y": 2017,
+    "v": "Current Opinion in Neurobiology",
+    "a": [
+     "Zenke",
+     "Gerstner",
+     "Ganguli"
+    ]
+   }
+  ]
+ },
+ "ZENKE17b": {
+  "expect": "Zenke",
+  "query": "Hebbian plasticity requires compensatory processes on multiple timescales",
+  "top": {
+   "doi": "10.1098/rstb.2016.0259",
+   "t": "Hebbian plasticity requires compensatory processes on multiple timescales",
+   "y": 2017,
+   "v": "Philosophical Transactions of the Royal Society B: Biological Sciences",
+   "a": [
+    "Zenke",
+    "Gerstner"
+   ]
+  },
+  "match": true,
+  "alts": [
+   {
+    "doi": "10.1162/neco.a.1509",
+    "t": "Similarity Matching Networks: Hebbian Learning and Convergence Over Multiple Timescales",
+    "y": 2026,
+    "v": "Neural Computation",
+    "a": [
+     "Centorrino",
+     "Bullo",
+     "Russo"
+    ]
+   }
+  ]
+ },
+ "TETZ22": {
+  "expect": "Tetzlaff",
+  "query": "Self-organized criticality in developing neuronal networks",
+  "top": {
+   "doi": "10.3389/conf.neuro.10.2008.01.119",
+   "t": "Self-organized criticality of developing artificial neuronal networks and dissociated cell cultures",
+   "y": 2008,
+   "v": "Frontiers in Computational Neuroscience",
+   "a": [
+    "Markus"
+   ]
+  },
+  "match": false,
+  "alts": [
+   {
+    "doi": "10.1038/srep01081",
+    "t": "Developing neuronal networks: Self-organized criticality predicts the future",
+    "y": 2013,
+    "v": "Scientific Reports",
+    "a": [
+     "Pu",
+     "Gong",
+     "Li",
+     "Luo"
+    ]
+   }
+  ]
+ }
+}

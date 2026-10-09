@@ -1,0 +1,9 @@
+{
+ "complete-value": 2.220446049250313e-16,
+ "complete-q": 2.7755575615628914e-16,
+ "ring-deg2-value": 2.220446049250313e-16,
+ "ring-deg2-q": 2.220446049250313e-16,
+ "ring-deg4-value": 2.220446049250313e-16,
+ "ring-deg4-q": 2.220446049250313e-16,
+ "negative_control": "reduction mismatch at N=4, graph=complete: 7.429e-03"
+}

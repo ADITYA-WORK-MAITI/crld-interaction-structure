@@ -1,0 +1,328 @@
+{
+ "complete": [
+  {
+   "N": 4,
+   "R": 3,
+   "conv": 200,
+   "disc": 0.015,
+   "chao1": null,
+   "coop": 0.7124,
+   "amp": 2.6205069364459987e-11
+  },
+  {
+   "N": 6,
+   "R": 3,
+   "conv": 197,
+   "disc": 0.015,
+   "chao1": null,
+   "coop": 0.5594,
+   "amp": 3.473621390526205e-11
+  },
+  {
+   "N": 8,
+   "R": 4,
+   "conv": 200,
+   "disc": 0.02,
+   "chao1": null,
+   "coop": 0.4492,
+   "amp": 1.4899825817593637e-10
+  },
+  {
+   "N": 10,
+   "R": 4,
+   "conv": 200,
+   "disc": 0.02,
+   "chao1": null,
+   "coop": 0.3636,
+   "amp": 9.959200131248735e-11
+  },
+  {
+   "N": 14,
+   "R": 2,
+   "conv": 200,
+   "disc": 0.01,
+   "chao1": null,
+   "coop": 0.1504,
+   "amp": 5.099731748003933e-11
+  },
+  {
+   "N": 20,
+   "R": 1,
+   "conv": 200,
+   "disc": 0.005,
+   "chao1": null,
+   "coop": 0.0025,
+   "amp": 1.899705783306449e-11
+  },
+  {
+   "N": 28,
+   "R": 1,
+   "conv": 120,
+   "disc": 0.008,
+   "chao1": null,
+   "coop": 0.0025,
+   "amp": 1.8998076549425758e-11
+  },
+  {
+   "N": 40,
+   "R": 1,
+   "conv": 120,
+   "disc": 0.008,
+   "chao1": null,
+   "coop": 0.0025,
+   "amp": 1.8992757019886675e-11
+  },
+  {
+   "N": 56,
+   "R": 1,
+   "conv": 120,
+   "disc": 0.008,
+   "chao1": null,
+   "coop": 0.0025,
+   "amp": 1.8998272573178543e-11
+  },
+  {
+   "N": 80,
+   "R": 1,
+   "conv": 80,
+   "disc": 0.013,
+   "chao1": null,
+   "coop": 0.0025,
+   "amp": 1.8981364223458197e-11
+  },
+  {
+   "N": 100,
+   "R": 1,
+   "conv": 80,
+   "disc": 0.013,
+   "chao1": null,
+   "coop": 0.0025,
+   "amp": 1.899557941498209e-11
+  }
+ ],
+ "ring-d2": [
+  {
+   "N": 6,
+   "R": 3,
+   "conv": 46,
+   "disc": 0.065,
+   "chao1": null,
+   "coop": 0.6584,
+   "amp": 2.9424873995709255e-11
+  },
+  {
+   "N": 8,
+   "R": 4,
+   "conv": 120,
+   "disc": 0.033,
+   "chao1": null,
+   "coop": 0.6303,
+   "amp": 6.872846736172278e-11
+  },
+  {
+   "N": 10,
+   "R": 8,
+   "conv": 120,
+   "disc": 0.067,
+   "chao1": null,
+   "coop": 0.6061,
+   "amp": 7.579259442280772e-11
+  },
+  {
+   "N": 14,
+   "R": 9,
+   "conv": 103,
+   "disc": 0.087,
+   "chao1": null,
+   "coop": 0.5508,
+   "amp": 1.533668747555339e-10
+  },
+  {
+   "N": 20,
+   "R": 14,
+   "conv": 120,
+   "disc": 0.117,
+   "chao1": null,
+   "coop": 0.357,
+   "amp": 3.5016822774736056e-11
+  },
+  {
+   "N": 28,
+   "R": 32,
+   "conv": 69,
+   "disc": 0.464,
+   "chao1": null,
+   "coop": 0.3454,
+   "amp": 2.2946367028708892e-11
+  },
+  {
+   "N": 40,
+   "R": 44,
+   "conv": 50,
+   "disc": 0.88,
+   "chao1": 144.42857142857144,
+   "coop": 0.3354,
+   "amp": 1.7351842185320265e-11
+  },
+  {
+   "N": 56,
+   "R": 39,
+   "conv": 39,
+   "disc": 1.0,
+   "chao1": 780.0,
+   "coop": 0.3283,
+   "amp": 1.4188039632045957e-11
+  },
+  {
+   "N": 80,
+   "R": 33,
+   "conv": 33,
+   "disc": 1.0,
+   "chao1": 561.0,
+   "coop": 0.3222,
+   "amp": 1.3240131213620998e-11
+  },
+  {
+   "N": 100,
+   "R": 24,
+   "conv": 24,
+   "disc": 1.0,
+   "chao1": 300.0,
+   "coop": 0.3191,
+   "amp": 1.355132672742343e-11
+  }
+ ],
+ "ring-d4": [
+  {
+   "N": 10,
+   "R": 5,
+   "conv": 70,
+   "disc": 0.071,
+   "chao1": 5.0,
+   "coop": 0.55,
+   "amp": 5.575070960439632e-11
+  },
+  {
+   "N": 20,
+   "R": 1,
+   "conv": 7,
+   "disc": 0.143,
+   "chao1": 1.0,
+   "coop": 0.3518,
+   "amp": 6.634887084189245e-11
+  },
+  {
+   "N": 40,
+   "R": 32,
+   "conv": 50,
+   "disc": 0.64,
+   "chao1": 70.5,
+   "coop": 0.3354,
+   "amp": 1.220982204230836e-10
+  }
+ ],
+ "q_variant_N20": {
+  "q-complete": {
+   "R": 1,
+   "conv": 40,
+   "coop": 0.0025
+  },
+  "q-ring-d2": {
+   "R": 11,
+   "conv": 40,
+   "coop": 0.3574
+  }
+ },
+ "oscillation_cases": {
+  "ring-d2 N=6": [
+   {
+    "max_step_change": 0.0,
+    "amplitude_over_window": 0.0,
+    "verdict": "fixed point"
+   },
+   {
+    "max_step_change": 0.0,
+    "amplitude_over_window": 0.0,
+    "verdict": "fixed point"
+   },
+   {
+    "max_step_change": 0.0,
+    "amplitude_over_window": 0.0,
+    "verdict": "fixed point"
+   },
+   {
+    "max_step_change": 0.0,
+    "amplitude_over_window": 0.0,
+    "verdict": "fixed point"
+   }
+  ],
+  "ring-d2 N=14": [
+   {
+    "max_step_change": 1.3322676295501878e-15,
+    "amplitude_over_window": 7.327471962526033e-15,
+    "verdict": "fixed point"
+   },
+   {
+    "max_step_change": 3.3306690738754696e-16,
+    "amplitude_over_window": 3.3306690738754696e-16,
+    "verdict": "fixed point"
+   }
+  ],
+  "ring-d2 N=28": [
+   {
+    "max_step_change": 1.2212453270876722e-15,
+    "amplitude_over_window": 7.993605777301127e-15,
+    "verdict": "fixed point"
+   },
+   {
+    "max_step_change": 1.2212453270876722e-15,
+    "amplitude_over_window": 6.38378239159465e-15,
+    "verdict": "fixed point"
+   },
+   {
+    "max_step_change": 1.27675647831893e-15,
+    "amplitude_over_window": 7.882583474838611e-15,
+    "verdict": "fixed point"
+   },
+   {
+    "max_step_change": 1.2212453270876722e-15,
+    "amplitude_over_window": 6.328271240363392e-15,
+    "verdict": "fixed point"
+   }
+  ],
+  "ring-d4 N=20": [
+   {
+    "max_step_change": 0.0,
+    "amplitude_over_window": 0.0,
+    "verdict": "fixed point"
+   },
+   {
+    "max_step_change": 9.992007221626409e-16,
+    "amplitude_over_window": 5.995204332975845e-15,
+    "verdict": "fixed point"
+   },
+   {
+    "max_step_change": 0.0,
+    "amplitude_over_window": 0.0,
+    "verdict": "fixed point"
+   },
+   {
+    "max_step_change": 0.0,
+    "amplitude_over_window": 0.0,
+    "verdict": "fixed point"
+   },
+   {
+    "max_step_change": 0.0,
+    "amplitude_over_window": 0.0,
+    "verdict": "fixed point"
+   }
+  ]
+ },
+ "pivotality": {
+  "all_to_all_N4": 1.114926675212046,
+  "all_to_all_N100": 0.12406540325385573,
+  "ring_d2": 1.4482641096976296,
+  "ring_d4": 1.0327990832314342
+ },
+ "_field_note": "Diagnostics are {max_step_change, amplitude_over_window}. max_step_change decides fixed point vs oscillation; amplitude_over_window is the total excursion across the window and is necessarily the larger of the two."
+}

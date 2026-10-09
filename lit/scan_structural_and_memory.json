@@ -1,0 +1,155 @@
+{
+ "SORN_STRUCT": [
+  {
+   "doi": "10.1371/journal.pcbi.1002848",
+   "t": "Network Self-Organization Explains the Statistics and Dynamics of Synaptic Connection Strengths in Cortex",
+   "y": 2013,
+   "v": "PLoS Computational Biology",
+   "a": [
+    "Zheng",
+    "Dimitrakakis",
+    "Triesch"
+   ]
+  },
+  {
+   "doi": "10.3389/conf.fncom.2012.55.00068",
+   "t": "Network Self-organization Explains the Distribution of Synaptic Efficacies in Neocortex",
+   "y": 2012,
+   "v": "Frontiers in Computational Neuroscience",
+   "a": [
+    "Jochen"
+   ]
+  },
+  {
+   "doi": "10.1101/027268",
+   "t": "Plasticity-Driven Self-Organization under Topological Constraints Accounts for Non-Random Features of Cortical Synaptic Wiring",
+   "y": 2015,
+   "v": "",
+   "a": [
+    "Miner",
+    "Triesch"
+   ]
+  }
+ ],
+ "SORN_STRUCT2": [
+  {
+   "doi": "10.3389/neuro.10.023.2009",
+   "t": "SORN: a Self-organizing Recurrent Neural Network",
+   "y": 2009,
+   "v": "Frontiers in Computational Neuroscience",
+   "a": [
+    "Lazar"
+   ]
+  },
+  {
+   "doi": "10.3389/neuro.10.019.2009",
+   "t": "SORN: a self-organizing recurrent neural network",
+   "y": 2009,
+   "v": "Frontiers in Computational Neuroscience",
+   "a": [
+    "Lazar"
+   ]
+  },
+  {
+   "doi": "10.21105/joss.03545",
+   "t": "sorn: A Python package for Self Organizing Recurrent Neural Network",
+   "y": 2021,
+   "v": "Journal of Open Source Software",
+   "a": [
+    "Nambusubramaniyan"
+   ]
+  }
+ ],
+ "MEM_IN_SYN": [
+  {
+   "doi": "10.5220/0010903500003124",
+   "t": "Vehicle Pair Activity Classification using QTC and Long Short Term Memory Neural Network",
+   "y": 2022,
+   "v": "Proceedings of the 17th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications",
+   "a": [
+    "Radhakrishnan",
+    "Alzoubi"
+   ]
+  },
+  {
+   "doi": "10.1101/2024.11.26.625447",
+   "t": "Quantifying information stored in synaptic connections rather than in firing activities of neural networks",
+   "y": 2024,
+   "v": "",
+   "a": [
+    "Fan",
+    "Mysore"
+   ]
+  },
+  {
+   "doi": "10.1101/lm.3.2-3.257",
+   "t": "Novel lists of 7 +/- 2 known items can be reliably stored in an oscillatory short-term memory network: interaction with long-term memory.",
+   "y": 1996,
+   "v": "Learning &amp; Memory",
+   "a": [
+    "Jensen",
+    "Lisman"
+   ]
+  }
+ ],
+ "HIDDEN_STATE_SYN": [
+  {
+   "doi": "10.1126/science.1150769",
+   "t": "Synaptic Theory of Working Memory",
+   "y": 2008,
+   "v": "Science",
+   "a": [
+    "Mongillo",
+    "Barak",
+    "Tsodyks"
+   ]
+  },
+  {
+   "doi": "10.1101/2024.01.11.575157",
+   "t": "Synaptic Theory of Working Memory for Serial Order",
+   "y": 2024,
+   "v": "",
+   "a": [
+    "Mongillo",
+    "Tsodyks"
+   ]
+  },
+  {
+   "doi": "10.7554/elife.107005.2",
+   "t": "Synaptic Encoding of Time in Working Memory",
+   "y": 2026,
+   "v": "",
+   "a": [
+    "Mongillo",
+    "Tsodyks"
+   ]
+  }
+ ],
+ "GATED_LIN": [
+  {
+   "doi": "10.7717/peerj-cs.3733/supp-2",
+   "t": "Supplemental Information 2: Defines the complete Mamba architecture including selective state space layers with input-dependent transitions, residual connections, and RMS normalization.",
+   "y": null,
+   "v": "",
+   "a": []
+  },
+  {
+   "doi": "10.1007/978-1-4612-3816-4_24",
+   "t": "Stability of State Space Linear Systems",
+   "y": 1998,
+   "v": "State Space and Input-Output Linear Systems",
+   "a": [
+    "Delchamps"
+   ]
+  },
+  {
+   "doi": "10.1007/978-1-4612-3816-4_25",
+   "t": "Stability of Input-Output Linear Systems",
+   "y": 1998,
+   "v": "State Space and Input-Output Linear Systems",
+   "a": [
+    "Delchamps"
+   ]
+  }
+ ]
+}

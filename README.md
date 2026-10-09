@@ -4,6 +4,8 @@ Aditya Maiti. Exploratory research, 2026.
 
 **Paper:** [`paper/paper.pdf`](paper/paper.pdf). Source in [`paper/paper.md`](paper/paper.md).
 
+**Archived release:** [10.5281/zenodo.23264321](https://doi.org/10.5281/zenodo.23264321)
+
 Whether a collective of reinforcement learners ends up with many distinct
 collective outcomes or just one is decided by how the agents are coupled, not by
 how many of them there are. Under all-to-all coupling the repertoire contracts to

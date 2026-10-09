@@ -220,7 +220,7 @@ No non-trivial attractor dimension was obtained, because no non-point attractor 
 
 ## 9. Reproduction
 
-Code, data and figures are deposited with this report under the same DOI, and are also at https://github.com/ADITYA-WORK-MAITI/crld-interaction-structure. The verification stage runs in about a minute:
+Code, data and figures are archived at doi:10.5281/zenodo.23264321, and are also at https://github.com/ADITYA-WORK-MAITI/crld-interaction-structure. The verification stage runs in about a minute:
 
     python run_all.py verify
 

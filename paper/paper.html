@@ -133,7 +133,7 @@ a:hover { text-decoration: underline; }
 <p>Two learning rules were tested, and the Q-learning check covers one agent count. Trajectories were recorded in policy space only.</p>
 <p>No non-trivial attractor dimension was obtained, because no non-point attractor was found. The calibrated estimator is implemented and unused on real trajectories for that reason. A dimension estimate does appear in the saved sweep output. It is computed on converged endpoints, which from twenty agents onward agree with each other to one or two units in the last place of double precision. It therefore measures rounding scatter about a single point rather than an attractor, and it should not be used.</p>
 <h2>9. Reproduction</h2>
-<p>Code, data and figures are deposited with this report under the same DOI, and are also at https://github.com/ADITYA-WORK-MAITI/crld-interaction-structure. The verification stage runs in about a minute:</p>
+<p>Code, data and figures are archived at doi:10.5281/zenodo.23264321, and are also at https://github.com/ADITYA-WORK-MAITI/crld-interaction-structure. The verification stage runs in about a minute:</p>
 <pre>python run_all.py verify</pre>
 <p>It asserts that the reduction equals enumeration on every graph and both learning rules, asserts that a deliberately broken reduction fails, and checks that the orbit-space quotient follows each graph&#x27;s symmetry group. Everything else rests on it.</p>
 <p>Trial counts are listed per agent count in the runner rather than computed from a formula, because changing one changes the measured attractor count. A traceability document maps every number above to the file that produces it, and states what is not traceable.</p>

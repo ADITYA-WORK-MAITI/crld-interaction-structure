@@ -1,14 +1,22 @@
 cff-version: 1.2.0
 message: "If you use this software or its results, please cite it as below."
-title: "Interaction structure decides whether a collective learning repertoire grows or collapses"
+title: "Attractor count in collective reinforcement-learning dynamics depends on interaction structure, not on population size"
 authors:
   - family-names: Maiti
     given-names: Aditya
 type: software
 license: MIT
+doi: 10.5281/zenodo.23264321
 repository-code: "https://github.com/ADITYA-WORK-MAITI/crld-interaction-structure"
 date-released: 2026-10-09
-version: "1.0.0"
+version: "1.0.1"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23264321
+    description: Concept DOI, resolves to the latest version
+  - type: doi
+    value: 10.5281/zenodo.23264323
+    description: Version DOI for v1.0.0
 keywords:
   - collective reinforcement learning
   - learning dynamics
